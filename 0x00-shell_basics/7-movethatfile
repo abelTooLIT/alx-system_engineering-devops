@@ -1,0 +1,3 @@
+cd /tmp
+touch holberton
+mv betty /tmp/holberton
