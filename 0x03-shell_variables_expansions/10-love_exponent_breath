@@ -1,2 +1,2 @@
 #!/bin/bash
-exhc-e $((BREATH**LOVE))
+echo -e $((BREATH**LOVE))
