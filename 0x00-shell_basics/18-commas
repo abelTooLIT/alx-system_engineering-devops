@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pvma
+ls -pam
