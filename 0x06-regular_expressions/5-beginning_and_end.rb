@@ -1,2 +1,3 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/h.n/).join
+# /* match  0 or more founded
+puts ARGV[0].scan(/^h\wn$/).join
